@@ -1,4 +1,4 @@
-# PortraitNet论文复现
+# 飞桨论文复现挑战赛(第三期)-PortraitNet论文复现
 
 AI Studio 项目连接：https://aistudio.baidu.com/aistudio/projectdetail/1759729
 
